@@ -3,7 +3,7 @@
     - upload 
         - request
             - auth
-            - format
+            - format : collection_v2 , swagger_v2
             - file
         - response
             - url link
